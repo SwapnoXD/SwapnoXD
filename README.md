@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/SwapnoXD/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://telegra.ph/file/b7561941a65c8fac5eb47.mp4" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -151,7 +151,3 @@
 ---
 
 <br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
